@@ -16,10 +16,12 @@ and deploying applications to production.
 > These are the technologies I use as my primary engineering stack.
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,express,nestjs,react,nodejs,bun,go,fiber,expo,postgres,prisma,redis,rabbitmq,docker,nginx,linux" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,postgres,prisma,redis,rabbitmq,docker,nginx,linux,express,nestjs,bun,go,fiber,expo" />
 </p>
 
-**TypeScript → Next.js → React → Node.js → PostgreSQL → Prisma → Redis → RabbitMQ → Docker → Nginx → Linux**
+**Core:** TypeScript → Next.js → React → Node.js → PostgreSQL → Prisma → Redis → RabbitMQ → Docker → Nginx → Linux
+
+**Secondary:** Express → NestJS → Bun → Go → Fiber → Expo
 
 ---
 
